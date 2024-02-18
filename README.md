@@ -10,6 +10,7 @@ TASK 2 : MOVIE RATING PREDICTION WITH PYTHON
 <br>
 Aim of Task 2 : Build a model that predicts the rating of a movie based on features like genre, director, and actors.
 
+
 <br>
 TASK 3 : Credit Card Fraud Prediction
 <br>
